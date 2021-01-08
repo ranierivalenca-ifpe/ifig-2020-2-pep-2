@@ -1,4 +1,4 @@
-# Hello world
+# Ola mundo
 Este é o meu projeto
-ele é muito legal
-eu gosto muito dele
+Ele é muito legal
+Eu gosto muito dele
